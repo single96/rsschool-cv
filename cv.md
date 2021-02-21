@@ -55,3 +55,12 @@ Extra Section
      * English (B2)
      * Russian (Native)
      * Polish (A1)
+
+Summary
+--------------------
+
+```
+while(true){
+    document.write('code');
+}
+```
