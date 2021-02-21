@@ -1,11 +1,10 @@
 Alexander Kozin 
 ============
 
--------------------     ----------------------------
-Email                        jenq9620@gmail.com
-Country                      Poland
-Town                         Warsaw
--------------------     ----------------------------
+| Email:    | jenq9620@gmail.com |
+|---|---|
+| Country:  | Poland  |
+| City:     | Warsaw |
 
 Education
 ---------
