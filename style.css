@@ -1,1 +1,14 @@
-start a new css file
+.table > div:first-of-type {
+    display: inline-block;
+}
+
+.resume-photo {
+    display: inline-block;
+}
+
+.table table {
+    margin-bottom: 76px;
+}
+
+
+
