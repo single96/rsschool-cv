@@ -1,14 +1,13 @@
-.table > div:first-of-type {
+.table > div:nth-of-type(2) {
     display: inline-block;
+    float: right;
 }
 
 .resume-photo {
     display: inline-block;
 }
 
-.table table {
-    margin-bottom: 76px;
-}
+
 
 
 
